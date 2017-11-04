@@ -1,6 +1,11 @@
 # python-course-scripts
 Tools for Running Python Course
 
+### Prerequisites for running the tool
+* Python 3.6
+* Pip
+* Once cloned, run `pip install -r requirements.txt`
+
 #### To initialize python course for year 2018 and with folder "class" run the below command
 
 `python ./pycoursehelper.py gdrive initialize -y 2018 -f class`
